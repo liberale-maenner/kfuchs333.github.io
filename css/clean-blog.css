@@ -423,9 +423,9 @@ header div.post-heading h1 {
 header div.post-heading h2 {
  
     background: #ffed00;
-    display: inline-block;
+    display: inline-block !important;
     padding: 7px;
-    margin-left: 77px;
+    margin-left: 77px !important;
     color: #e5007d;
 }
 
