@@ -420,6 +420,15 @@ header div.post-heading h1 {
   color: #ffed00;
 }
 
+header div.post-heading h2 {
+ 
+    background: #ffed00;
+    display: inline-block;
+    padding: 7px;
+    margin-left: 77px;
+    color: #e5007d;
+}
+
 @media only screen and (max-width: 767px) {
   .logo-div {
     background-color: grey;
