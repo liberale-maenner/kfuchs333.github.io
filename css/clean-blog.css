@@ -406,9 +406,10 @@ body {
   webkit-tap-highlight-color: #0085a1;
 }
 
-header .post-heading {
+header div.post-heading {
    
-  padding-left: 150px;
+  padding-left: 150px !important;
+  margin-left: -150px !important;
   background: url('../img/big-pink-stroke.png') 0px 100px no-repeat scroll;
 }
 
