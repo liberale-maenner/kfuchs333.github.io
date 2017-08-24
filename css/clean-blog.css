@@ -422,11 +422,11 @@ header div.post-heading h1 {
 
 header div.post-heading h2 {
  
-    background: #ffed00;
+    background: #009ee3;
     display: inline-block !important;
     padding: 7px;
     margin-left: 77px !important;
-    color: #e5007d;
+    color: #ffffff;
 }
 
 @media only screen and (max-width: 767px) {
