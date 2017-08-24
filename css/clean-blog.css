@@ -415,6 +415,11 @@ header div.post-heading {
   background: url('../img/big-pink-stroke.png') 0px 100px no-repeat scroll;
 }
 
+header div.post-heading h1 {
+ 
+  color: #ffed00;
+}
+
 @media only screen and (max-width: 767px) {
   .logo-div {
     background-color: grey;
