@@ -1030,6 +1030,8 @@ $(function() {
 
 // Navigation Scripts to Show Header on Scroll-Up
 jQuery(document).ready(function($) {
+	
+	/*
     var MQL = 1170;
 
     //primary navigation slide-in effect
@@ -1056,6 +1058,6 @@ jQuery(document).ready(function($) {
                 }
                 this.previousTop = currentTop;
             });
-    } 
+    } */
 });
 
