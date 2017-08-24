@@ -406,6 +406,12 @@ body {
   webkit-tap-highlight-color: #0085a1;
 }
 
+header .post-heading {
+   
+  padding-left: 150px;
+  background: url('../img/big-pink-stroke.png') 0px 100px no-repeat scroll;
+}
+
 @media only screen and (max-width: 767px) {
   .logo-div {
     background-color: grey;
