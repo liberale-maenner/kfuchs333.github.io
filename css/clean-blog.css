@@ -429,6 +429,7 @@ body {
     margin-left: 50px !important;
     color: #ffffff;
     border-radius: 7px;
+    display: block;
 }
 
 @media only screen and (max-width: 767px) {
