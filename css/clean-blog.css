@@ -425,8 +425,9 @@ header div.post-heading h2 {
     background: #009ee3;
     display: inline-block !important;
     padding: 7px;
-    margin-left: 77px !important;
+    margin-left: 50px !important;
     color: #ffffff;
+    border-radius: 7px;
 }
 
 @media only screen and (max-width: 767px) {
