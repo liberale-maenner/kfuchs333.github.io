@@ -179,10 +179,7 @@ hr.small {
     padding-left: 30px;
 }
 
-.intro-header .site-heading p {
-  
- display: none; 
-}
+
 
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
@@ -412,21 +409,20 @@ body {
   webkit-tap-highlight-color: #0085a1;
 }
 
-header div.post-heading, header div.site-heading {
+.intro-header div.post-heading, header div.site-heading {
    
   padding-left: 150px !important;
   margin-left: -150px !important;
   background: url('../img/big-pink-stroke.png') 0px 100px no-repeat scroll;
 }
 
-header div.post-heading h1, header div.site-heading h1 {
+.intro-header div.post-heading h1, header div.site-heading h1 {
  
   color: #ffed00;
 }
 
 
-
-header div.post-heading h2 {
+.intro-header div.post-heading h2, .intro-header .site-heading p {
  
     background: #009ee3;
     padding: 5px 7px;
