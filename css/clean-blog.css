@@ -432,6 +432,11 @@ body {
     display: block;
 }
 
+.intro-header .site-heading p {
+
+    margin: 0.7em;
+}
+
 @media only screen and (max-width: 767px) {
   .logo-div {
     background-color: grey;
