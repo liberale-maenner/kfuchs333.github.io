@@ -437,6 +437,15 @@ body {
     margin: 0.7em;
 }
 
+h2.post-title {
+
+   background: #e5007d url('../img/heading-bg.png') left repeat-y;
+   padding: 5px 10px 5px 37px;
+   border-radius: 7px;
+   margin-left: -37px;
+   color: #ffed00;
+}
+
 @media only screen and (max-width: 767px) {
   .logo-div {
     background-color: grey;
