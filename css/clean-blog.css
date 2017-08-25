@@ -425,8 +425,7 @@ header div.post-heading h1, header div.site-heading h1 {
 header div.post-heading h2 {
  
     background: #009ee3;
-    display: inline-block !important;
-    padding: 7px;
+    padding: 5px 7px;
     margin-left: 50px !important;
     color: #ffffff;
     border-radius: 7px;
