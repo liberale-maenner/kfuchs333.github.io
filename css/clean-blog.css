@@ -441,9 +441,8 @@ h2.post-title {
 
    display: block;
    background: transparent url('../img/postheadingbg.png') left center repeat-y;
-   padding: 5px 10px 5px 67px;
-   border-radius: 7px;
-   margin-left: -67px;
+   padding: 10px 10px 10px 120px;
+   margin-left: -120px;
    color: #009ee3;
 }
 
