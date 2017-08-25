@@ -440,7 +440,7 @@ body {
 h2.post-title {
 
    display: block;
-   background: transparent url('../img/post-heading-bg.png') left repeat-y;
+   background: transparent url('../img/postheadingbg.png') left center repeat-y;
    padding: 5px 10px 5px 67px;
    border-radius: 7px;
    margin-left: -67px;
