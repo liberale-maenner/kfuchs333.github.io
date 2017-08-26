@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Über uns"
-description: "Bundesinitiative Liberale Männer e.V."
+description: "Liberale Männer"
 header-img: "img/about-bg.jpg"
 navbar: "yes"
 ---
