@@ -35,7 +35,7 @@ defaults:
       author: "Liberale Männer"
   -
     scope:
-      path: "_navbar"
+      path: "menu"
     values:
       layout: "page"
       header-img: "img/about-bg.jpg"
