@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kontakt"
-description: "Have questions? I have answers (maybe)."
+description: "Hier kommt einmal ein funktionierendes Formular hin"
 header-img: "img/contact-bg.jpg"
 navbar: "yes"
 ---
