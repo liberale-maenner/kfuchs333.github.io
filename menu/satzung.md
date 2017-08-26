@@ -1,1 +1,4 @@
+---
+title: "Satzung"
+---
 Satzung
