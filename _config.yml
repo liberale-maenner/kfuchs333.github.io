@@ -30,6 +30,15 @@ defaults:
       path: "_posts"
     values:
       layout: "post"
+      header-img: "img/about-bg.jpg"
       subtitle:  " "
       author: "Liberale Männer"
+  -
+    scope:
+      path: "_navbar"
+    values:
+      layout: "page"
       header-img: "img/about-bg.jpg"
+      subtitle:  " "
+      author: "Liberale Männer"
+      navbar: "yes"
