@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Bundesvorstand"
-navabr: "yes"
+description: "Liberale Männer"
+header-img: "img/about-bg.jpg"
+navbar: "yes"
 ---
 
 Bundesvorstand
