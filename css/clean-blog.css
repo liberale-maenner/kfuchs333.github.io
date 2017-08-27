@@ -474,12 +474,6 @@ h2.post-title, h2.section-heading {
    color: #e5007d;
 }
 
-@media only screen and (max-width: 767px) {
-  .logo-div {
-    background-color: grey;
-  }
-}
-
 .logo-div {
   
     margin-right: 30px !important; 
