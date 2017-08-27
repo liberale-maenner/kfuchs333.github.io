@@ -22,7 +22,7 @@ paginate: 5
 include: ["_navbar"]
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-cloudinary]
 
 defaults:
   -
