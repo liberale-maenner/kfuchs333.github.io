@@ -1,15 +1,15 @@
 # Site settings
 title: "Liberale Männer"
 header-img: img/home-bg.jpg
-email: info@liberale-maenner.net
+email: info@liberale-maenner.org
 copyright_name: Oliver Hoffmann
 description: "Gleichberechtigung - auch für Männer"
 baseurl: "/"
-url: "http://www.liberale-maenner.net/"
+url: "http://www.liberale-maenner.org/"
 twitter_username: liberalemaenner
 github_username:  ontore
 facebook_username:  liberalemaenner
-email_username:  info@liberale-maenner.net
+email_username:  info@liberale-maenner.org
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 # google_tracking_id:
