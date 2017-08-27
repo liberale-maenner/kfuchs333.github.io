@@ -5,7 +5,7 @@ description: "Hier kommt einmal ein funktionierendes Formular hin"
 navbar: "yes"
 ---
 
-Wenn die Website offiziell wird, tragen wir hier einen funktionierenden email-Empfänger ein.
+Wenn die Website aktiv bespielt wird, tragen wir hier einen funktionierenden email-Empfänger ein.
 
 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
