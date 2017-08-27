@@ -2,7 +2,6 @@
 layout: page
 title: "Kontakt"
 description: "Hier kommt einmal ein funktionierendes Formular hin"
-header-img: "img/contact-bg.jpg"
 navbar: "yes"
 ---
 
