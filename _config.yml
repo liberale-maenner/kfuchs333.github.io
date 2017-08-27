@@ -22,17 +22,7 @@ paginate: 5
 include: ["_navbar"]
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed, jekyll-cloudinary]
-
-cloudinary:
-  cloud_name: liberalemaenner
-  presets:
-    default:
-      min_width: 320
-      max_width: 1600
-      fallback_max_width: 800
-      steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"  
+gems: [jekyll-paginate, jekyll-feed] 
 
 defaults:
   -
