@@ -50,19 +50,47 @@ hr.small {
   background: white;
   position: absolute;
   top: 0;
-  left: 0;
-  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
   z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+@media only screen and (min-width: 750px) { 
+  .navbar-custom {
+
+     width: 750px;
+  }
+}
+
+@media only screen and (min-width: 1000px) { 
+  .navbar-custom {
+
+     width: 1000px;
+  }
+}
+
+@media only screen and (min-width: 1200px) { 
+  .navbar-custom {
+
+     width: 1200px;
+  }
+}
+
+@media only screen and (min-width: 1400px) { 
+  .navbar-custom {
+
+     width: 1400px;
+  }
+}
+
 .navbar-custom .navbar-brand {
   font-weight: 800;
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 600;
-  letter-spacing: 1px;
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
@@ -79,7 +107,6 @@ hr.small {
   }
   .navbar-custom .nav li a {
     color: #009ee3;
-    padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
@@ -451,4 +478,9 @@ h2.post-title, h2.section-heading {
   .logo-div {
     background-color: grey;
   }
+}
+
+.logo-div {
+  
+    margin-right: 30px !important; 
 }
