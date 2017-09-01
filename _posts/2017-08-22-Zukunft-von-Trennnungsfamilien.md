@@ -8,4 +8,4 @@ im Bratwurst Röslein, Rathausplatz 6, Nürnberg mit
 
 Freier Eintritt
 
-![Ankündigung](https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/20988409_163720347527286_618853074954895955_o.jpg?oh=c434c39cbd21e359eb95a1973e24f639&oe=5A1D07C8)
+![Ankündigung](http://res.cloudinary.com/liberalemaenner/image/upload/a_auto_left.auto_right,fl_any_format,q_auto:best/v1504244014/20988409_163720347527286_618853074954895955_o_y69z7x)
