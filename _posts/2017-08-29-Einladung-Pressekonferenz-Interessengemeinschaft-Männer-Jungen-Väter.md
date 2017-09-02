@@ -13,3 +13,5 @@ Die IG-JMV benennt im Gespräch die Hintergründe. Männer und getrennt erziehen
 Das geschlechterpolitische Kartell der im Bundestag vertretenen Parteien und der ausschließliche Fokus auf die Bedürfnisse von Frauen muss ein Ende haben.
 
 Die IG-JMV ruft Männer und getrennt erziehende Väter dazu auf, die Wahlversprechen der Parteien genau zu prüfen, um ihr Wahlverhalten danach zu richten.
+
+![IG](http://res.cloudinary.com/liberalemaenner/image/upload/q_auto:best/v1504332797/einladung-zum-pressegespraech-am-04-09-2017-um-12-uhr-in-berlin-bundestagswahl-2017-parteien-sind-fu_ijid5b)
