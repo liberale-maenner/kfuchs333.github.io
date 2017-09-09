@@ -17,10 +17,8 @@ header-img: "img/about-bg.jpg"
         {% endif %}
     </a>
     <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-    <p class="post-excerpt">{{ post.content | strip_html | truncatewords:22 }}</p>
-    {% if post.excerpt != post.content %}
+    <p class="post-excerpt">{{ post.content | strip_html | truncatewords:53 }}</p>
     <p class="post-excerpt"><a class="readmore-link" href="{{ site.baseurl }}{{ post.url }}">Weiterlesen</a></p>
-    {% endif %}
 </div>
 <hr>
 {% endfor %}
