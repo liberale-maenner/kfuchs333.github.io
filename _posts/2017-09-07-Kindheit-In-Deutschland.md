@@ -4,6 +4,7 @@ Herford, 6.9.2017.
 
 Der Bezirksvorsitzende der FDP Ostwestfalen Lippe und Bundestagskandidat Frank Schäffler hatte am gestrigen Abend zum Thema Kindheit in Deutschland nach Herford ins Hotel Vivendi eingeladen.
 Zu Gast war der stellvertretende Fraktionsvorsitzende der FDP im Landtag, Herr Marcel Hafke, der in einem lebhaften Vortrag die Familienpolitik der Partei skizzierte.
+<!--more-->
 Eine besondere Stellung nahm am Abend das Schicksal von Trennungskindern ein.
 Die Wahrscheinlichkeit, im Laufe der Kindheit eine Trennung der Eltern erleben zu müssen, liegt unterdessen bei fast 50%, Streitzahlen vor Familiengerichten nehmen von Jahr zu Jahr in bedrohlichem Ausmaß zu.
 Das Wahlprogramm der Freien Demokraten fordert nun für den Fall einer fehlenden Einigung von sich trennenden Eltern über den gewöhnlichen Aufenthalt ihrer gemeinsamen minderjährigen Kinder zukünftig die Annahme der Familiengerichte, dass die gemeinsame elterliche Betreuung von Trennungskindern dem Kindeswohl regelmäßig am besten entspricht (Vorrang des Prinzips der Doppelresidenz, analog zur elterlichen Sorge).
