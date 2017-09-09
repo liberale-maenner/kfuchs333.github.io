@@ -21,6 +21,7 @@ permalink: pretty
 paginate: 5
 include: ["_navbar"]
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+excerpt_separator: <!--more-->
 
 gems: [jekyll-paginate, jekyll-feed] 
 
