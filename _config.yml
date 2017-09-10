@@ -19,7 +19,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-include: ["_navbar"]
+include: ["menu"]
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 excerpt_separator: <!--more-->
 
