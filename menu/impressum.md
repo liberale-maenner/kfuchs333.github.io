@@ -2,8 +2,7 @@
 layout: page
 title: "Impressum"
 description: ""
-navbar: "no"
-permalink: index.html
+navbar: "yes"
 ---
 
 Für den Inhalt bis auf Weiteres (Vereinsgründung beziehungsweise Eintragung des Vereins) verantwortlich:
