@@ -1,4 +1,7 @@
-# Zukunft von Trennungsfamilien: Vorfahrt für gemeinsam Getrennterziehen und die Doppelresidenz!
+---
+title: Zukunft von Trennungsfamilien
+subtitle: Vorfahrt für gemeinsam Getrennterziehen und die Doppelresidenz!
+---
 
 am Mittwoch, dem 13.September 2017, 19 Uhr
 im Bratwurst Röslein, Rathausplatz 6, Nürnberg mit
