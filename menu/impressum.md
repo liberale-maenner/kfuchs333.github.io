@@ -2,7 +2,6 @@
 layout: page
 title: "Impressum"
 description: ""
-navbar: "no"
 footer-nav: "yes"
 ---
 
