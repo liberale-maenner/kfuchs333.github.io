@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Impressum"
+title: "impressum"
 description: ""
 exclude_from_nav: true
 footer-nav: true
