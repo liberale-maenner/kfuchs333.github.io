@@ -56,6 +56,13 @@
             </div>
         </div>
     </div>
+    <div id="footer-nav" style="text-align: center">
+        {% for page in site.pages %}
+		    {% if page.title and page.footer-nav %}
+		    	&nbsp;&nbsp;<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>&nbsp;&nbsp;
+            {% endif %}
+	    {% endfor %}
+    </div>
 </footer>
 
 <!-- jQuery -->
