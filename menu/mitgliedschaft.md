@@ -1,4 +1,4 @@
 ---
 title: "Mitgliedschaft"
 ---
-Mitgliedschaft
+Mitgliedschaft.
