@@ -57,10 +57,11 @@
         </div>
     </div>
     <div class="container">
-        <div id="impressum" style="text-align: center; font-size: 0.8em; margin-top: 2em; border-top: 1px dotted gray;">
-            <h4>Impressum</h4>
-           <p>Inhaltlich verantwortlich für diese Seite:</p>
-        </div>
+        {% for page in site.pages %}
+		    {% if page.title and page.footernavbar %}
+		    	&nbsp;&nbsp;<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>&nbsp;&nbsp;
+            {% endif %}
+		{% endfor %}
     </div>
 </footer>
 
