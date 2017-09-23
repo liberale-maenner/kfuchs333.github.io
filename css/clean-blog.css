@@ -463,7 +463,7 @@ body {
     margin: 0.7em;
 }
 
-h2.post-title, h2.section-heading {
+h2.post-title, h2.section-heading, page-content h2 {
 
    display: block;
    background: transparent url('../img/postheadingbg.png') left center repeat-y;
