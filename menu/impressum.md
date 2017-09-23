@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "impressum"
+title: "Impressum"
 description: ""
-exclude_from_nav: true
+navbar: "yes"
 ---
 
 Für den Inhalt ist bis auf Weiteres (Vereinsgründung beziehungsweise Eintragung des Vereins) verantwortlich:
