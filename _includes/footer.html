@@ -57,11 +57,14 @@
         </div>
     </div>
     <div class="container">
+         <div class="footernav" style="margin-top: 2em; border-top: 1px dotted gray;">
+	    
         {% for page in site.pages %}
 		    {% if page.title and page.footernavbar %}
 		    	&nbsp;&nbsp;<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>&nbsp;&nbsp;
             {% endif %}
 		{% endfor %}
+	 </div>
     </div>
 </footer>
 
