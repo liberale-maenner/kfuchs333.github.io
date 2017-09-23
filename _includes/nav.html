@@ -18,7 +18,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="font-color:#009ee3;">
             <ul class="nav navbar-nav navbar-right">
                 {% for page in site.pages %}
-		    {% if page.title and page.navbar %}
+		    {% unless page.exclude_from_nav %}
 		    	<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
                     {% endif %}
 		 {% endfor %}
