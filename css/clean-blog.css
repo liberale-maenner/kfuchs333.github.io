@@ -488,3 +488,13 @@ article h1 {
   
     color: #009ee3; 
 }
+
+.footernav {
+  text-align: center;
+}
+
+.footernav a {
+   font-weight: bold;
+   text-decoration: none;
+   font-size: 0.9em;
+}
