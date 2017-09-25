@@ -4,7 +4,7 @@ description: "Anregungen, Wünsche, Kontakt..."
 order: 4
 ---
 
-Sie haben Fragen, Wünsche, Ideen, Anregungen, Kritik?
+**Sie haben Fragen, Wünsche, Ideen, Anregungen, Kritik?**
 
 Nehmen Sie Kontakt zu uns auf entweder per Mail oder postalisch:
 
