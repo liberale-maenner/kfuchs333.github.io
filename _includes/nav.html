@@ -17,9 +17,10 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="font-color:#009ee3;">
             <ul class="nav navbar-nav navbar-right">
-                 {% for page in site.pages %}
-		    {% if page.title and page.navbar %}
-		    	<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+		 {% assign sorted_pages = site.pages | sort:"order" %}
+                 {% for node in sorted_pages %}
+		    {% if node.title and node.navbar %}
+		    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
                     {% endif %}
 		 {% endfor %}
             </ul>
