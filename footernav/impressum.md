@@ -3,6 +3,7 @@ title: "Impressum"
 ---
 
 verantwortlich für die Inhalte dieser Seite ist die Bundesvereinigung Liberale Männer e.V. i.G.
-Bürogemeinschaft Lassahn
-Nehringstr. 6
+
+Bürogemeinschaft Lassahn <br/>
+Nehringstr. 6<br/>
 14059 Berlin
