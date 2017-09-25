@@ -1,3 +1,7 @@
+---
+news: "yes"
+---
+
 Fragen an Angela Merkel und Martin Schulz:
 1. Warum dürfen Gleichstellungsbeauftragte nur weiblich sein? Das führt nicht zur Gleichberechtigung. Wo es Frauenbeauftragte gibt, muss es auch Männerbeauftragte geben. Wann werden die eingesetzt?
 2. Warum existiert bis heute die Diskriminierung “Mama erzieht - Papa zahlt” nach einer Trennung? Kinder brauchen beide Eltern. Wann kommt das Wechselmodell als gesetzlicher Standard?
