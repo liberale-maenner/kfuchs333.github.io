@@ -53,3 +53,15 @@ defaults:
       subtitle:  " "
       author: "Liberale Männer"
       footernavbar: "yes"
+
+  -
+    scope:
+      path: "menu/aktuelles"
+    values:
+      layout: "page"
+      header-img: "img/about-bg.jpg"
+      subtitle:  " "
+      author: "Liberale Männer"
+      footernavbar: "no"
+      paginate: 5
+      paginate_path: "/menu/aktuelles/page:num/"
