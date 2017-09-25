@@ -2,7 +2,7 @@
 title: "Impressum"
 ---
 
-Verantwortlich für die Inhalte dieser Seite:
+**Verantwortlich für die Inhalte dieser Seite:**
 
 Bundesvereinigung Liberale Männer e.V. i.G.<br />
 Bürogemeinschaft Lassahn <br/>
