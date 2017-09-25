@@ -2,6 +2,7 @@
 title: Willkommen bei den liberalen Männern
 subtitle: Für eine ganzheitliche, moderne Geschlechterpolitik
 featured: "yes"
+order: 1
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
