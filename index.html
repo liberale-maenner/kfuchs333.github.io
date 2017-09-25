@@ -6,6 +6,7 @@ header-img: "img/about-bg.jpg"
 ---
 
 {% for post in paginator.posts %}
+{% if post.featured %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -21,6 +22,7 @@ header-img: "img/about-bg.jpg"
     <p class="post-excerpt"><a class="readmore-link" href="{{ site.baseurl }}{{ post.url }}">Weiterlesen</a></p>
 </div>
 <hr>
+{% endif %}
 {% endfor %}
 
 <!-- Pager -->
