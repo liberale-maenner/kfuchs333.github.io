@@ -1,3 +1,7 @@
+---
+title: Doppelresidenz: Kindheit in Deutschland 2017
+news: "yes"
+---
 via [Doppelresidenz 2017](https://www.facebook.com/groups/1325919770854244/):
 
 Herford, 6.9.2017.
