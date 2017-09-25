@@ -11,3 +11,5 @@ Fragen an Angela Merkel und Martin Schulz:
 6. Auch Jungen und Männer werden Opfer häuslicher und sexueller Gewalt. Warum gibt es für Jungen und Männer nicht den gleichen Schutz wie für Frauen?
 7. Kuckuckskinder: Warum müssen Opfer bis heute Schadensersatz zahlen? Biologischer- und Scheinvater sind Opfer, keine Täter. Warum muss die Verursacherin keine Kosten tragen?
 8. Warum werden Erforschung, Prävention und Bekämpfung typisch männlicher Erkrankungen nicht gleichermaßen gefördert wie die typisch weiblicher Erkrankungen?
+
+<!-- more -->
