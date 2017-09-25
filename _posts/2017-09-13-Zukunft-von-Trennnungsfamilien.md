@@ -2,6 +2,7 @@
 title: Zukunft von Trennungsfamilien
 subtitle: Vorfahrt für gemeinsam Getrennterziehen und die Doppelresidenz!
 featured: "yes"
+news: "yes"
 ---
 
 am Mittwoch, dem 13.September 2017, 19 Uhr
