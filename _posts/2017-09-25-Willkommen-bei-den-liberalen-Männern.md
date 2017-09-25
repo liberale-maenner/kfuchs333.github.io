@@ -1,5 +1,4 @@
 ---
-title: Willkommen bei den liberalen Männern
 featured: "yes"
 description: Für eine ganzheitliche, moderne Geschlechterpolitik
 ---
