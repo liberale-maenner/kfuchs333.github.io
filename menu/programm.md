@@ -4,6 +4,8 @@ description: "Was wir wollen..."
 order: 1
 ---
 
+## Für eine ganzheitliche, moderne Geschlechterpolitik
+
 Die [Freie Demokratische Partei (FDP)](https://www.fdp.de) ist eine Partei, die sich für Freiheit, Demokratie und Gleichberechtigung einsetzt. Letzteres bedeutet, dass die Interessen von Frauen und Männern gleichermaßen berücksichtigt werden. Derzeit existiert ein Verein, die Liberalen Frauen, der politische Interessen für Frauen vertritt. Jedoch gibt es bedauerlicherweise weder bei der FDP noch bei einer der im Bundestag vertretenen Parteien eine vergleichbare Gruppe, welche die Interessen von Männern vertritt.
 
 Die Liberalen Männer stehen für eine ganzheitliche, moderne Geschlechterpolitik, wonach es tatsächliche Gleichberechtigung nur geben kann, wenn die berechtigten Anliegen beider Geschlechter berücksichtigt sowie Benachteiligungen thematisiert und beseitigt werden.
