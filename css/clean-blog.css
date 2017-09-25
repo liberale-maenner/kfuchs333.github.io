@@ -472,6 +472,18 @@ h2.post-title, h2.section-heading, .page-content h2 {
    color: #e5007d;
 }
 
+.page-content h3, .page-content h4, .page-content h5, .page-content h6, article h3, article h4, article h5, article h6 {
+ 
+    display: inline-block;
+    color: #e5007d;
+    margin-left: -66px;
+    padding-left: 66px;
+    border-bottom: 2px solid #009ee3;
+    line-height: 1.5;
+    padding-right: 33px;
+    margin-bottom: 1em;
+}
+
 .logo-div {
   
     margin-right: 30px !important; 
