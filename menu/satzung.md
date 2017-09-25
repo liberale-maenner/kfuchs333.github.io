@@ -1,4 +1,0 @@
----
-title: "Satzung"
----
-Satzung
