@@ -4,11 +4,11 @@ description: "Was wir wollen..."
 order: 1
 ---
 
-## Kurzprogramm
-
 Die [Freie Demokratische Partei (FDP)](https://www.fdp.de) ist eine Partei, die sich für Freiheit, Demokratie und Gleichberechtigung einsetzt. Letzteres bedeutet, dass die Interessen von Frauen und Männern gleichermaßen berücksichtigt werden. Derzeit existiert ein Verein, die Liberalen Frauen, der politische Interessen für Frauen vertritt. Jedoch gibt es bedauerlicherweise weder bei der FDP noch bei einer der im Bundestag vertretenen Parteien eine vergleichbare Gruppe, welche die Interessen von Männern vertritt.
 
 Die Liberalen Männer stehen für eine ganzheitliche, moderne Geschlechterpolitik, wonach es tatsächliche Gleichberechtigung nur geben kann, wenn die berechtigten Anliegen beider Geschlechter berücksichtigt sowie Benachteiligungen thematisiert und beseitigt werden.
+
+## Kurzprogramm
 
 Um auf eine tatsächliche Gleichberechtigung von Frauen und Männern, Müttern und Vätern, Mädchen und Jungen hinzuarbeiten, wollen die Liberalen Männer die im Folgenden genannten **Ziele** erreichen:
 
@@ -49,4 +49,7 @@ Alle Parteien haben eine Frauenorganisationen. Die CDU/CSU die FrauenUnion, die 
 Eine Selbstregulierung funktioniert in diesem Bereich offenbar nicht. Zu lukrativ sind die Selbstbedienungsposten bei der Öffentlichen Hand. Es geht um Macht und Geld.
 
 Wenn Männer nicht gegen ihre Diskriminierung kämpfen, wird es niemand für sie tun. Genauso wie bei den Frauen in den 70´ern. Exakt an dem Punkt stehen Männer heute.
+
+## Grundsatzprogramm
+Unser Grundsatzprogramm ist noch in Bearbeitung...
 
