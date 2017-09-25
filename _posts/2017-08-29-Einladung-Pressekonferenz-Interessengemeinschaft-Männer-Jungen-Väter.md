@@ -1,3 +1,7 @@
+---
+news: "yes"
+---
+
 Einladung der
 [Interessengemeinschaft Jungen, Männer & Väter](http://www.xn--ig-jungen-mnner-vter-lzbg.de)
 zum
