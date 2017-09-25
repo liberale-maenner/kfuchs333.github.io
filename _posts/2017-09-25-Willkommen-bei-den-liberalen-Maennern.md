@@ -1,6 +1,7 @@
 ---
+title: Willkommen bei den liberalen Männern
+subtitle: Für eine ganzheitliche, moderne Geschlechterpolitik
 featured: "yes"
-description: Für eine ganzheitliche, moderne Geschlechterpolitik
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
