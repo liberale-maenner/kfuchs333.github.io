@@ -5,6 +5,7 @@ order: 6
 ---
 
 {% for post in site.posts %}
+{% if post.news %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -20,4 +21,5 @@ order: 6
     <p class="post-excerpt"><a class="readmore-link" href="{{ site.baseurl }}{{ post.url }}">Weiterlesen</a></p>
 </div>
 <hr>
+{% endif %}
 {% endfor %}
