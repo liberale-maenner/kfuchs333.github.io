@@ -1,6 +1,7 @@
 ---
 title: Vor dem Gesetz sind alle Menschen gleich
 subtitle: Auch Väter
+news: "yes"
 ---
 
 Via [Wahlprogramm der FDP](https://www.fdp.de/karte/familie):
