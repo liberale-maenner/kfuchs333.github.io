@@ -1,7 +1,6 @@
 ---
 title: Zukunft von Trennungsfamilien
 subtitle: Vorfahrt für gemeinsam Getrennterziehen und die Doppelresidenz!
-featured: "yes"
 news: "yes"
 ---
 
