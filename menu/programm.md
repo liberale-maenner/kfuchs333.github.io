@@ -1,6 +1,7 @@
 ---
 title: "Programm"
 description: "Was wir wollen..."
+order: 1
 ---
 
 ## Kurzprogramm
