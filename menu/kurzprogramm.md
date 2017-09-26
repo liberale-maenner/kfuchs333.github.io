@@ -1,5 +1,5 @@
 ---
-title: "Programm"
+title: "Kurzprogramm"
 description: "Was wir wollen..."
 order: 1
 ---
