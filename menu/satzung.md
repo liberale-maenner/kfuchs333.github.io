@@ -4,10 +4,7 @@ description: "Rechtliches und Formales..."
 order: 5
 ---
 
-## Satzung der Bundesvereinigung Liberale Männer e.V. (in Gründung)
-
-**Satzung mit Geschäftsordnung der Mitgliederversammlung, Wahlordnung und Bundesbeitragsordnung
-in der Fassung des Beschlusses der Mitgliederversammlung vom 05.08.2017 in Nürnberg**
+**Nachfolgend finden Sie die Satzung der Bundesvereinigung Liberale Männer e.V. (in Gründung) mit Geschäftsordnung der Mitgliederversammlung, Wahlordnung und Bundesbeitragsordnung in der Fassung des Beschlusses der Mitgliederversammlung vom 05.08.2017 in Nürnberg**
 
 ## Satzung
 
