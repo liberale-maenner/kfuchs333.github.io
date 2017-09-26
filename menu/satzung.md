@@ -23,10 +23,10 @@ order: 5
 (2)	Zweck des Vereins ist, die Gleichberechtigung von Männern und Frauen in Bildung und Wissenschaft, Familie, Verwaltung, Wirtschaft, Politik, Gesundheit, Kultur und Gesellschaft in tatsächlicher und rechtlicher Hinsicht zu fördern und durchzusetzen. Dies soll durch die gleichberechtigte und partnerschaftliche Verteilung von Ressourcen, Rechten und Pflichten in den unter Satz 1 genannten Bereichen erreicht werden. Der Zweck soll insbesondere erreicht werden durch:
 
   1. intensive und kontinuierliche Öffentlichkeitsarbeit
+
+  2. Bildungsveranstaltungen
   
-	2. Bildungsveranstaltungen
-  
-	3. Zusammenarbeit mit anderen Männerorganisationen auf nationaler und internationaler, insbesondere auf europäischer Ebene. Der Verein strebt eine enge Zusammenarbeit mit gleichgesinnten Männerverbänden in anderen Staaten mit dem Ziel an, eine überstaatliche Ordnung im Geiste liberaler, partnerschaftlicher und demokratischer Lebensauffassung herbeizuführen. Der Verein strebt die Mitgliedschaft in nationalen und internationalen Männerverbänden an.
+  3. Zusammenarbeit mit anderen Männerorganisationen auf nationaler und internationaler, insbesondere auf europäischer Ebene. Der Verein strebt eine enge Zusammenarbeit mit gleichgesinnten Männerverbänden in anderen Staaten mit dem Ziel an, eine überstaatliche Ordnung im Geiste liberaler, partnerschaftlicher und demokratischer Lebensauffassung herbeizuführen. Der Verein strebt die Mitgliedschaft in nationalen und internationalen Männerverbänden an.
   
 (3)	Der Verein ist selbstlos tätig; er verfolgt keine eigenwirtschaftlichen Zwecke.
 
