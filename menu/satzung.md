@@ -117,10 +117,10 @@ Organe der Bundesvereinigung LIBERALE MÄNNER e.V. sind:
 ### § 8 Der Bundesvorstand
 (1)	der geschäftsführende Bundesvorstand besteht aus:
 
-dem Vorsitzenden<br />
-drei gleichberechtigten Stellvertretern<br />
-dem Schatzmeister<br />
-dem Schriftführer<br />
+dem Vorsitzenden,<br />
+drei gleichberechtigten Stellvertretern,<br />
+dem Schatzmeister,<br />
+dem Schriftführer.<br />
   
 Er führt die laufenden Geschäfte.
   
