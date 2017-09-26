@@ -10,7 +10,7 @@ order: 5
 
 ### § 1 Name, Sitz
 
-(1)	Der Verein führt den Namen „Bundesvereinigung LIBERALE MÄNNER e.V.“. Die Kurzformen "LIBERALE MÄNNER" und "Liberale Männer" sind zulässig.
+(1) Der Verein führt den Namen „Bundesvereinigung LIBERALE MÄNNER e.V.“. Die Kurzformen "LIBERALE MÄNNER" und "Liberale Männer" sind zulässig.
 
 (2)	Er hat seinen Sitz in Berlin und ist im Vereinsregister des Amtsgerichts Berlin- Charlottenburg eingetragen.
 
@@ -22,11 +22,9 @@ order: 5
 
 (2)	Zweck des Vereins ist, die Gleichberechtigung von Männern und Frauen in Bildung und Wissenschaft, Familie, Verwaltung, Wirtschaft, Politik, Gesundheit, Kultur und Gesellschaft in tatsächlicher und rechtlicher Hinsicht zu fördern und durchzusetzen. Dies soll durch die gleichberechtigte und partnerschaftliche Verteilung von Ressourcen, Rechten und Pflichten in den unter Satz 1 genannten Bereichen erreicht werden. Der Zweck soll insbesondere erreicht werden durch:
 
-  1. intensive und kontinuierliche Öffentlichkeitsarbeit
-
-  2. Bildungsveranstaltungen
-  
-  3. Zusammenarbeit mit anderen Männerorganisationen auf nationaler und internationaler, insbesondere auf europäischer Ebene. Der Verein strebt eine enge Zusammenarbeit mit gleichgesinnten Männerverbänden in anderen Staaten mit dem Ziel an, eine überstaatliche Ordnung im Geiste liberaler, partnerschaftlicher und demokratischer Lebensauffassung herbeizuführen. Der Verein strebt die Mitgliedschaft in nationalen und internationalen Männerverbänden an.
+1. intensive und kontinuierliche Öffentlichkeitsarbeit
+2. Bildungsveranstaltungen
+3. Zusammenarbeit mit anderen Männerorganisationen auf nationaler und internationaler, insbesondere auf europäischer Ebene. Der Verein strebt eine enge Zusammenarbeit mit gleichgesinnten Männerverbänden in anderen Staaten mit dem Ziel an, eine überstaatliche Ordnung im Geiste liberaler, partnerschaftlicher und demokratischer Lebensauffassung herbeizuführen. Der Verein strebt die Mitgliedschaft in nationalen und internationalen Männerverbänden an.
   
 (3)	Der Verein ist selbstlos tätig; er verfolgt keine eigenwirtschaftlichen Zwecke.
 
@@ -75,8 +73,8 @@ Die Mitgliedschaft oder Fördermitgliedschaft endet durch:
 (2)	AUFGABEN UND STELLUNG DER LANDESVEREINIGUNGEN
 
   (a) Die Mitgliedsbeiträge werden von den Landesvereinigungen nach eigenen Regeln erhoben. Die Landesvereinigungen führen einen Teil der Mitgliedsbeiträge an die Bundesvereinigung ab; im Übrigen sind sie finanziell unabhängig und verwalten ihre Finanzen selbst.
-
-	(b) Gehört ein Mitglied oder Fördermitglied keiner Landesvereinigung an, ist sie zur Beitragsabführung an die Bundesvereinigung verpflichtet.
+  
+  (b) Gehört ein Mitglied oder Fördermitglied keiner Landesvereinigung an, ist sie zur Beitragsabführung an die Bundesvereinigung verpflichtet.
   
 (3)	BUNDESBEITRAGSORDNUNG. In der Bundesbeitragsordnung werden die Mindestmitgliedsbeiträge sowie Höhe und Fälligkeit der davon durch die Landesvereinigungen abzuführende Anteil festgelegt.
 
@@ -99,41 +97,30 @@ Organe der Bundesvereinigung LIBERALE MÄNNER e.V. sind:
 
 (4)	Die Aufgaben der Mitgliederversammlung sind:
 
-  1. Entgegennahme des Geschäfts- und Kassenberichts des Bundesvorstandes
- 
-	2. Entgegennahme des Rechnungsprüfungsberichts
-  
-	3. Wahl, Abberufung, Entlastung der Mitglieder des Bundesvorstandes
-  
-	4. Wahl, Abberufung, Entlastung der Rechnungsprüfer
-  
-	5. Beschlussfassung über Anträge
-  
-	6. Beschlussfassung über Satzungsänderungen
-  
-	7. Beschlussfassung über die Beitragsordnung, Wahl- und Geschäftsordnung
-  
-	8. Beschlussfassung über die Auflösung des Vereins
+1. Entgegennahme des Geschäfts- und Kassenberichts des Bundesvorstandes 
+2. Entgegennahme des Rechnungsprüfungsberichts
+3. Wahl, Abberufung, Entlastung der Mitglieder des Bundesvorstandes
+4. Wahl, Abberufung, Entlastung der Rechnungsprüfer
+5. Beschlussfassung über Anträge
+6. Beschlussfassung über Satzungsänderungen
+7. Beschlussfassung über die Beitragsordnung, Wahl- und Geschäftsordnung
+8. Beschlussfassung über die Auflösung des Vereins
   
 (5)	Beschlussfassung
 
-   1. Beschlüsse werden mit der Mehrheit der Stimmen der anwesenden stimmberechtigten Mitglieder gefasst (Entgegennahme des Rechnungsprüfungsberichts).
-   
-	 2. Satzungsänderungen können nur mit Mehrheit von 2/3 der Stimmen aller anwesenden, stimmberechtigten Mitglieder beschlossen werden.
-
-   3. Zur Abberufung des Bundesvorstandes oder einzelner seiner Mitglieder, zur Änderung der Satzung, der Geschäftsordnung, der Beitrags- und der Wahlordnung ist eine Mehrheit von 2/3, zur Änderung des Vereinszwecks und zur Auflösung des Vereins ist eine solche von 9/10 der abgegebenen, gültigen Stimmen erforderlich.
-   
-   4. Satzungsänderungen, die Änderung des Vereinszwecks und die Auflösung des Vereins können nur behandelt werden, wenn ihr Wortlaut zusammen mit der Einladung jedem Mitglied in Textform zugesandt wurde.
-   
-   5. Jede ordnungsgemäß einberufene Mitgliederversammlung ist beschlussfähig.
+1. Beschlüsse werden mit der Mehrheit der Stimmen der anwesenden stimmberechtigten Mitglieder gefasst (Entgegennahme des Rechnungsprüfungsberichts).
+2. Satzungsänderungen können nur mit Mehrheit von 2/3 der Stimmen aller anwesenden, stimmberechtigten Mitglieder beschlossen werden.
+3. Zur Abberufung des Bundesvorstandes oder einzelner seiner Mitglieder, zur Änderung der Satzung, der Geschäftsordnung, der Beitrags- und der Wahlordnung ist eine Mehrheit von 2/3, zur Änderung des Vereinszwecks und zur Auflösung des Vereins ist eine solche von 9/10 der abgegebenen, gültigen Stimmen erforderlich.
+4. Satzungsänderungen, die Änderung des Vereinszwecks und die Auflösung des Vereins können nur behandelt werden, wenn ihr Wortlaut zusammen mit der Einladung jedem Mitglied in Textform zugesandt wurde.
+5. Jede ordnungsgemäß einberufene Mitgliederversammlung ist beschlussfähig.
 
 ### § 8 Der Bundesvorstand
 (1)	der geschäftsführende Bundesvorstand besteht aus:
 
-  - dem Vorsitzenden
-	- drei gleichberechtigten Stellvertretern
-	- dem Schatzmeister
-	- dem Schriftführer.
+dem Vorsitzenden<br />
+drei gleichberechtigten Stellvertretern<br />
+dem Schatzmeister<br />
+dem Schriftführer<br />
   
 Er führt die laufenden Geschäfte.
   
