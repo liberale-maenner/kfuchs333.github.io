@@ -10,8 +10,6 @@ Die [Freie Demokratische Partei (FDP)](https://www.fdp.de) ist eine Partei, die 
 
 Die Liberalen Männer stehen für eine ganzheitliche, moderne Geschlechterpolitik, wonach es tatsächliche Gleichberechtigung nur geben kann, wenn die berechtigten Anliegen beider Geschlechter berücksichtigt sowie Benachteiligungen thematisiert und beseitigt werden.
 
-## Kurzprogramm
-
 Um auf eine tatsächliche Gleichberechtigung von Frauen und Männern, Müttern und Vätern, Mädchen und Jungen hinzuarbeiten, wollen die Liberalen Männer die im Folgenden genannten **Ziele** erreichen:
 
 1. Konsequente **Umsetzung des Artikels 3** des Grundgesetzes der Bundesrepublik Deutschland und des Artikels 2 der Allgemeinen Erklärung der **Menschenrechte** der Vereinten Nationen.
