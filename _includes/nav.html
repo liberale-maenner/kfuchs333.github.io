@@ -20,7 +20,9 @@
 		 {% assign sorted_pages = site.pages | sort:"order" %}
                  {% for node in sorted_pages %}
 		    {% if node.title and node.navbar %}
-		    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+		        {% unless node.parent %}
+		    	   <li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+		        {% endunless %}
                     {% endif %}
 		 {% endfor %}
             </ul>
