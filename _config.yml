@@ -4,8 +4,8 @@ header-img: img/about-bg.jpg
 email: info@liberale-maenner.org
 copyright_name: 
 description: "Politik von Männern - für die Gesellschaft"
-baseurl: "/kfuchs333.github.io/"
-url: "https://liberale-maenner.github.io/kfuchs333.github.io/"
+baseurl: "/"
+url: "http://liberale-maenner.de/"
 twitter_username: liberalemaenner
 github_username:  liberale-maenner
 facebook_username:  liberalemaenner
